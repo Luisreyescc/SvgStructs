@@ -1,4 +1,4 @@
-Data Structures Grapher
+# Data Structures Grapher
 
 Data Structures Grapher is a tool to generate graphical representations of data structures in SVG format. The program takes as input a file with the name of the data structure and the elements it contains, producing an SVG image with the structure visualization.
 
